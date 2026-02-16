@@ -1,0 +1,16 @@
+,mean,min,25%,50%,75%,max,std
+Total Screen Time,551.13,123,438,543,671,912,168.59
+Social Media Usage,144.49,32,109,136,175,274,51.17
+Games Usage,58.79,0,3,27,98,311,73.72
+0 to 6,70.52,0,0,45,115,329,78.70
+6 to 12,122.74,0,75,114,165,312,66.99
+12 to 18,184.40,44,121,175,247,360,85.11
+18 to 24,175.13,0,129,173,234,340,79.11
+Steps,6195.63,36,2900,5889,9376,16342,3756.93
+Effective Evening Screen Time,243.99,15,155,231,308,592,110.42
+Daytime Screen Time,307.15,56,239,307,369,672,116.68
+SleepQualityNextDay,2.67,1,2,2,3,4,0.89
+SleepQualityNextNextDay,2.69,1,2,2,3,4,0.89
+SleepDurationMinutesNextDay,392.36,60,300,360,480,720,134.18
+InteractiveScreenTime,203.28,32,133,186,250,450,96.80
+NonInteractiveScreenTime,319.06,57,209,297,416,847,142.98
